@@ -1,6 +1,7 @@
 // Public browser configuration only. Supabase anon keys are designed to be public;
 // database access is protected by authentication and row-level security policies.
 window.SHOWDOWN_CONFIG = {
-  supabaseUrl: 'https://YOUR-PROJECT.supabase.co',
-  supabaseAnonKey: 'YOUR-SUPABASE-ANON-KEY'
+  supabaseUrl: https://xinqkhscejppqhogjgjy.supabase.co/rest/v1/,
+  supabaseAnonKey: sb_publishable_TSXqgKAatgGfcjQCRxMJag_CqfiODTq
 };
+
